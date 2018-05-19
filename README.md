@@ -5,7 +5,7 @@ You can find the deployed application in [here](https://blooming-spire-84773.her
 
 
 ## All User Id are numbers
-for inputing in search album or post you have to input userid which is a number
+for inputting in search album or post you have to input user id which is a number
 - json data for post you can find it in [here](https://my-json-server.typicode.com/edenishvn4/fakedbjson/posts)
 - json data for comments you can find it in [here](https://my-json-server.typicode.com/edenishvn4/fakedbjson/comments)
 - json data for album you can find it in [here](http://jsonplaceholder.typicode.com/albums)
